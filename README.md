@@ -13,27 +13,28 @@
 
 ## 👨‍💻 About Me
 
-```javascript
-const developer = {
-  name: "Tanu Chaturvedi",
-  location: "Kanpur, India 🇮🇳",
-  role: "Full Stack Developer | MERN Specialist",
-  education: "B.Tech @ Masai School | BBA Graduate",
-  
-  currentMission: "Crafting scalable, high-performance web applications",
-  
-  expertise: {
-    frontend: ["React.js", "Redux", "HTML5", "CSS3", "Tailwind CSS", "TypeScript"],
-    backend: ["Node.js", "Express.js", "REST APIs", "JWT Authentication"],
-    databases: ["MongoDB", "Firebase"],
-    tools: ["Git", "VS Code", "Postman", "Chart.js", "npm/yarn"],
-    deployment: ["Netlify", "Vercel", "CI/CD Pipelines"]
-  },
-  
-  passion: ["Web Development", "Problem Solving", "UI/UX Design", "Clean Code"],
-  philosophy: "Code with purpose, build with passion 💜",
-  currentlyLearning: "Advanced System Design & TypeScript"
-};
+
+👋 Hi! I'm **Tanu Chaturvedi** - a passionate Full Stack Developer from Kanpur, India 🇮🇳
+
+🎓 **Education:** B.Tech in MERN Stack Development @ Masai School | BBA Graduate  
+💼 **Current Role:** Building scalable web applications with modern technologies  
+🎯 **Focus:** Creating user-friendly, high-performance solutions
+
+### 🛠️ What I Work With
+
+**Frontend:** React.js • Redux • TypeScript • HTML5 • CSS3 • Tailwind CSS  
+**Backend:** Node.js • Express.js • REST APIs • JWT Authentication  
+**Database:** MongoDB • Firebase  
+**Tools:** Git • VS Code • Postman • Chart.js • Netlify • Vercel
+
+### 🚀 What Drives Me
+
+✨ Clean, maintainable code  
+💡 Problem-solving through technology  
+🎨 Beautiful, responsive UI/UX  
+📚 Continuous learning and growth
+
+> *"Code with purpose, build with passion"* 💜
 ```
 <br/>
 
