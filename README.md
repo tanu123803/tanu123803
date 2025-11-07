@@ -40,8 +40,8 @@
 
 ## 🚀 Featured Projects
 
-<table>
-<tr>
+
+
 <td width="50%">
 
 ### 🍔 Food Delivery Platform
@@ -64,7 +64,7 @@
 - 📱 Fully responsive design
 - ⚡ Optimized performance
 
-</td>
+
 <td width="50%">
 
 ### 📝 Interactive Quiz Application
@@ -86,7 +86,7 @@
 - 🎯 Engaging user experience
 - 📱 Responsive UI
 
-</td>
+
 </tr>
 </table>
 
