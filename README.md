@@ -1,15 +1,15 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Tanu+Chaturvedi;Full+Stack+Developer+%7C+MERN+Stack;Building+Scalable+Web+Applications" alt="Typing SVG" />
-</div>
 
-<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hi+%F0%9F%91%8B+I'm+Tanu+Chaturvedi;Full+Stack+Developer+%7C+MERN+Stack;Building+Scalable+Web+Applications" alt="Typing SVG" />
+
+
+
   <img src="https://komarev.com/ghpvc/?username=tanu123803&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
   <a href="https://github.com/tanu123803?tab=followers">
     <img src="https://img.shields.io/github/followers/tanu123803?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
   </a>
-</div>
 
-<br/>
+
+
 
 ## 👨‍💻 About Me
 
@@ -36,7 +36,7 @@
 
 > *"Code with purpose, build with passion"* 💜
 ```
-<br/>
+
 
 ## 🚀 Featured Projects
 
@@ -90,11 +90,11 @@
 </tr>
 </table>
 
-<br/>
+
 
 ## 💻 Tech Stack
 
-<div align="center">
+
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -122,38 +122,38 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-</div>
 
-<br/>
+
+
 
 ## 📊 GitHub Statistics
 
-<div align="center">
+
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=tanu123803&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF" alt="GitHub Stats" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=tanu123803&theme=radical&hide_border=true&background=0D1117&ring=A855F7&fire=FF6B6B&currStreakLabel=A855F7" alt="GitHub Streak" />
-</div>
 
-<div align="center">
+
+
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanu123803&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=FFFFFF" alt="Top Languages" />
-</div>
 
-<br/>
+
+
 
 ## 📈 Contribution Graph
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanu123803&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF" alt="Contribution Graph" />
-</div>
 
-<br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanu123803&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=A855F7&line=A855F7&point=FFFFFF" alt="Contribution Graph" />
+
+
+
 
 ## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tanu123803&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
-</div>
 
-<br/>
+  <img src="https://github-profile-trophy.vercel.app/?username=tanu123803&theme=radical&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+
+
+
 
 ## 💼 Experience
 
@@ -164,18 +164,18 @@
 - ⭐ Ensured transparent candidate experience
 - 💡 Developed strong communication & problem-solving skills
 
-<br/>
+
 
 ## 🎓 Education
 
 🎓 **MERN Stack Development** - Masai (2025 - Present)  
 🎓 **Bachelor of Business Administration (BBA)** - PSIT College (2021 - 2024)
 
-<br/>
+
 
 ## 🌟 Core Competencies
 
-<div align="center">
+
 
 | Technical Skills | Soft Skills |
 |:---:|:---:|
@@ -186,38 +186,38 @@
 | 🚀 CI/CD Pipelines | ⏰ Time Management |
 | 📊 Data Visualization | 📈 Continuous Learning |
 
-</div>
 
-<br/>
+
+
 
 ## 🌐 Connect With Me
 
-<div align="center">
+
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanu-chaturvedi)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaturveditanu975@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tanuchaturvedi.lovable.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tanu123803)
 
-</div>
 
-<br/>
+
+
 
 ## 💡 Quote
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-</div>
 
-<br/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
+
+
+
 
 ---
 
-<div align="center">
+
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" />
   
   ### ⭐ Show some love by starring my repositories!
   
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
   <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" />
-</div>
+
